@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Derek
+I am a systems engineer currently working to support a financial services technology organization. I don't always have time to work on large or fancy projects, but I do my best to leverage git and GitHub in a way that lets me track things I have learned and share with others to reference. 
+
+I am enthusiastic about Linux, builiding infrastrucutre that supports application or network platforms, writing code, and automating the boring stuff. I love supporting my peers in reaching their goals or figuring out problems. 
 
 <!--
 **derekfulmer/derekfulmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
