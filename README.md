@@ -1,5 +1,5 @@
 ### Hi, I'm Derek
-I am a systems engineer currently working to support a financial services technology organization. I don't always have time to work on intricate or highly visible projects, but I do my best to leverage git and GitHub in a way that lets me track the things I have learned and share with others to reference.
+I am a systems engineer currently working to support a financial services technology organization. I don't always have time to work on intricate or highly visible projects, but I do my best to leverage git and GitHub in a way that lets me track what I have learned and share with others to reference.
 
 The code you might find here is not always production ready or reflective of my skills in various areas. I am always learning and refining my abilities.
 
