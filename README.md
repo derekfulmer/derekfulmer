@@ -1,9 +1,9 @@
 ### Hi, I'm Derek
-I am a systems engineer working to build automation platforms and infrastructure. I don't always have time to work on highly visible projects, but I do my best to leverage git and GitHub in a way that lets me track what I have learned and share with others to reference.
+I am a systems engineer infrastructure, automation, and writing some code. I don't always have time to work on highly visible projects, but I do my best to leverage git and GitHub in a way that lets me track what I have learned and share with others to reference.
 
-The code you might find here is not always production ready, though I try to commit _fairly_ polished code. I am always learning and refining my abilities.
+Some of the code you will find here is not necessarily production ready. I am always learning and expanding my abilities.
 
-I am enthusiastic about Linux, builiding infrastrucutre that supports application or network platforms, writing code, and automating the boring stuff. I love supporting my peers in reaching their goals or figuring out problems. 
+I am enthusiastic about writing code, Linux, building automation, and helping others move forward toward their goals.
 
 <!--
 **derekfulmer/derekfulmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
