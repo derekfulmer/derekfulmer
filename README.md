@@ -1,5 +1,5 @@
 ### Hi, I'm Derek
-I am a systems engineer infrastructure, automation, and writing some code. I don't always have time to work on highly visible projects, but I do my best to leverage git and GitHub in a way that lets me track what I have learned and share with others to reference.
+I am a systems engineer working with infrastructure, automation, and writing code. I don't always have time to work on highly visible projects, but I do my best to leverage git and GitHub in a way that lets me track what I have learned and share with others to reference.
 
 Some of the code you will find here is not necessarily production ready. I am always learning and expanding my abilities.
 
